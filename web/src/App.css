@@ -1,0 +1,25 @@
+.Toastify__toast--info {
+    background-color: #0E6EB8 !important;
+}
+
+.Toastify__toast--success {
+    background-color: #32CD32 !important;
+}
+
+.Toastify__toast--warning {
+    background-color: #FE9A76 !important;
+}
+
+.Toastify__toast--error {
+    background-color: #B03060 !important;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#root {
+    padding-bottom: 5rem;
+}
